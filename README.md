@@ -1,3 +1,13 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-Framework-green)
+
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-purple)
+
+![Docker](https://img.shields.io/badge/Docker-Container-blue)
+
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # 💬 SupportFlow AI
 ### Enterprise Multi-Agent Customer Support System with Human-in-the-Loop
 
