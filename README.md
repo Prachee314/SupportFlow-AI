@@ -19,15 +19,11 @@ Unlike traditional chatbots, **SupportFlow AI** follows an **agentic workflow**,
 
 ## 🚀 Live Demo
 
-🌐 Dashboard:
-https://YOUR_STREAMLIT_URL.streamlit.app
+## 🚀 Live Demo
 
-🔗 Backend API:
-https://supportflow-ai-yyph.onrender.com
-
-📖 API Documentation:
-https://supportflow-ai-yyph.onrender.com/docs
-
+- 🌐 **Dashboard:** https://supportflow-ai.streamlit.app/
+- 🔗 **Backend API:** https://supportflow-ai-yyph.onrender.com/
+- 📖 **API Documentation:** https://supportflow-ai-yyph.onrender.com/docs
 ---
 
 # 🚀 Features
