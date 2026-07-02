@@ -11,7 +11,7 @@
 # 💬 SupportFlow AI
 ### An end-to-end multi-agent customer support system built using LangGraph, FastAPI, Streamlit, Docker, SQLite, and Groq LLMs.
 
-SupportFlow AI is an enterprise-grade **multi-agent customer support system** built using **LangGraph, FastAPI, Streamlit, SQLite, Docker, and Groq LLMs**. The system intelligently classifies customer support requests, predicts ticket priority, retrieves relevant customer and ticket information, generates AI-assisted responses, and incorporates **Human-in-the-Loop (HITL)** supervision before responses are delivered to customers.
+SupportFlow AI is an end-to-end multi-agent customer support system built using LangGraph, FastAPI, Streamlit, SQLite, Docker, and Groq LLMs. The system intelligently classifies customer support requests, predicts ticket priority, retrieves relevant customer and ticket information, generates AI-assisted responses, and incorporates **Human-in-the-Loop (HITL)** supervision before responses are delivered to customers.
 
 Unlike traditional chatbots, **SupportFlow AI** follows an **agentic workflow**, where specialized AI agents collaborate to automate customer support while maintaining response quality through supervisor approval and feedback-driven response regeneration.
 
