@@ -16,12 +16,17 @@ SupportFlow AI is an enterprise-grade **multi-agent customer support system** bu
 Unlike traditional chatbots, **SupportFlow AI** follows an **agentic workflow**, where specialized AI agents collaborate to automate customer support while maintaining response quality through supervisor approval and feedback-driven response regeneration.
 
 ---
-## 🎥 Demo
 
-- **FastAPI Swagger:** http://localhost:8000/docs
-- **Streamlit Dashboard:** http://localhost:8501
+## 🚀 Live Demo
 
-> Docker deployment supported using Docker Compose.
+🌐 Dashboard:
+https://YOUR_STREAMLIT_URL.streamlit.app
+
+🔗 Backend API:
+https://supportflow-ai-yyph.onrender.com
+
+📖 API Documentation:
+https://supportflow-ai-yyph.onrender.com/docs
 
 ---
 
