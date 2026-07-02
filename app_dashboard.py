@@ -9,8 +9,8 @@ if not API_URL:
     raise ValueError("Environment variable 'API_URL' is not set")
 
 st.set_page_config(
-    page_title="DeskAI — Customer Intelligence",
-    page_icon="🗂️",
+    page_title="SupportFlow AI — Customer Support",
+    page_icon="💬",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
@@ -340,8 +340,8 @@ st.markdown(f"""
   <div class="tb-brand">
     <div class="tb-logo">{LOGO_SVG}</div>
     <div>
-      <div class="tb-name">DeskAI</div>
-      <div class="tb-sub">Customer intelligence platform</div>
+      <div class="tb-name">SupportFlow AI</div>
+      <div class="tb-sub">AI-Powered Customer Support</div>
     </div>
   </div>
   <span class="tb-online">System online</span>
@@ -503,7 +503,7 @@ with tab1:
                 if role == "customer":
                     lbl,bcls,rcls = "You","bubble-customer","bubble-role-c"
                 else:
-                    lbl,bcls,rcls = "DeskAI Support","bubble-support","bubble-role-s"
+                    lbl,bcls,rcls = "SupportFlow AI","bubble-support","bubble-role-s"
                 st.markdown(f"""
                 <div class="bubble {bcls}">
                   <div class="bubble-role {rcls}">{lbl}</div>
@@ -658,7 +658,7 @@ with tab2:
                 if role == "customer":
                     lbl,bcls,rcls = "Customer","bubble-customer","bubble-role-c"
                 else:
-                    lbl,bcls,rcls = "DeskAI Support","bubble-support","bubble-role-s"
+                    lbl,bcls,rcls = "SupportFlow AI","bubble-support","bubble-role-s"
                 st.markdown(f"""
                 <div class="bubble {bcls}">
                   <div class="bubble-role {rcls}">{lbl}</div>
